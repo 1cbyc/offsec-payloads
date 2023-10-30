@@ -4,5 +4,5 @@ I intend to collate a light list of useful payloads and bypasses for Web Securit
 
 My favorite part of open source engineering is handling pull requests. I :heart: it. :) 
 
-📖 Documentation
+📖 Let me explain
 ----
